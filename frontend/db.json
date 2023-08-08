@@ -1,0 +1,943 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Airpods Wireless Bluetooth Headphones",
+      "image": "/images/airpods.png",
+      "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working'",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 13400,
+      "countInStock": 10,
+      "rating": 4.6,
+      "numReviews": 12
+    },
+    {
+      "id": 2,
+      "name": "iPhone (White , memory 8GB)",
+      "image": "/images/iPhone 4.png",
+      "description": "12MP primary camera with 720p HD video recording, retina flash, ?/2.4 aperture, auto HDR for photos, backside illumination sensor, exposure control, improved local tone mapping, face detection, timer mode, burst mode and 1.2MP front facing camera",
+      "brand": "Apple",
+      "category": "'Electronics'",
+      "price": 16000,
+      "countInStock": 7,
+      "rating": 4.7,
+      "numReviews": 8
+    },
+    {
+      "id": 3,
+      "name": "Canon EOS 80D DSLR Camera",
+      "image": "/images/Canon EOS 80D DSLR Camera.png",
+      "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+      "brand": "Cannon",
+      "category": "'Electronics'",
+      "price": 130000,
+      "countInStock": 5,
+      "rating": 4.6,
+      "numReviews": 12
+    },
+    {
+      "id": 4,
+      "name": "Sony Playstation 4 Pro White Version",
+      "image": "/images/Sony Playstation 4 Pro White Version.png",
+      "description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+      "brand": "Sony",
+      "category": "'Electronics'",
+      "price": 35000,
+      "countInStock": 11,
+      "rating": 5,
+      "numReviews": 12
+    },
+    {
+      "id": 5,
+      "name": "Logitech G-Series Gaming Mouse",
+      "image": "/images/Logitech G-Series Gaming Mouse.png",
+      "description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+      "brand": "Logitech",
+      "category": "'Electronics'",
+      "price": 1500,
+      "countInStock": 7,
+      "rating": 4.7,
+      "numReviews": 10
+    },
+    {
+      "id": 6,
+      "name": "Amazon Echo Dot 3rd Generation",
+      "image": "/images/alexa.jpg",
+      "description": "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+      "brand": "Amazon",
+      "category": "'Electronics'",
+      "price": 8000,
+      "countInStock": 0,
+      "rating": 4.8,
+      "numReviews": 12
+    },
+    {
+      "id": 7,
+      "name": "iPhone 14 Pro Max(deep purple,128GB)",
+      "image": "/images/Apple iPhone 14 Pro Max.png",
+      "description": "Introducing the iPhone 14 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 125500,
+      "countInStock": 227,
+      "rating": 4.7,
+      "numReviews": 88
+    },
+    {
+      "id": 8,
+      "name": "iPhone 6s(space grey,32GB)",
+      "image": "/images/iPhone6s.png",
+      "description": "Introducing the iPhone 6s. A transformative camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 29900,
+      "countInStock": 57,
+      "rating": 4.2,
+      "numReviews": 58
+    },
+    {
+      "id": 9,
+      "name": "Pixel 6a",
+      "image": "/images/Pixel 6a.png",
+      "description": "Meet Pixel 6a, the more affordable Google phone that adapts to you.(7) Powered by Google Tensor, it’s super fast and secure. The battery lasts up to 72 hours with Extreme Battery Saver.(2) The Pixel Camera captures the moment just how you experienced it. And with Titan M2™ security, protection is built right in",
+      "brand": "Google",
+      "category": "Electronics",
+      "price": 33500,
+      "countInStock": 117,
+      "rating": 4.3,
+      "numReviews": 99
+    },
+    {
+      "id": 10,
+      "name": "Pixel 7 Pro",
+      "image": "/images/Pixel 7 Pro.png",
+      "description": "Google Pixel 7 Pro is the new addition in the Google smartphone portfolio that comes with premium features and high-end specifications. Moreover, the smartphone supports the 5G network, its dimensions measure 162.9 mm x 76.6 mm x 8.9 mm (height x width x thickness), and it weighs around 212 grams",
+      "brand": "Google",
+      "category": "Electronics",
+      "price": 55500,
+      "countInStock": 17,
+      "rating": 4.5,
+      "numReviews": 38
+    },
+    {
+      "id": 11,
+      "name": "Redmi note 10 Pro",
+      "image": "/images/Redmi note 10 Pro.png",
+      "description": "Redmi Note 10 Pro mobile was launched on 4th March 2021. The phone comes with a 6.67-inch touchscreen display. The display sports Gorilla Glass for protection. Redmi Note 10 Pro is powered by an octa-core Qualcomm Snapdragon 732G processor. It comes with 6GB,8GB of RAM. The Redmi Note 10 Pro runs Android 11 and is powered by a 5050mAh battery. The Redmi Note 10 Pro supports proprietary fast charging",
+      "brand": "Xiaomi",
+      "category": "Electronics",
+      "price": 18500,
+      "countInStock": 117,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 12,
+      "name": " Canon M50 Mark II",
+      "image": "/images/Canon M50 Mark II.png",
+      "description": "Catering to vloggers and content creators, the black Canon EOS M50 Mark II is a versatile multimedia camera with a well-rounded photo and video feature-set. Sporting improved focusing, recording, and sharing capabilities, the M50 Mark II still revolves around the proven 24.1MP APS-C CMOS sensor and DIGIC 8 image processor, which enable a quick 10 fps shooting rate, a native sensitivity range of ISO 100-25600, and UHD 4K video recording at 23.98 fps, along with Full HD 1080p60 and HD 720p120 for slow motion capture. Sensor-based Dual Pixel CMOS AF has been improved with faster speeds and refined Eye Detection AF performance, and supports both Eye Detection and Face Detection focusing modes when working with Movie Servo AF to help keep sharp focus on the subject matter. Additionally, Combination IS 5-axis image stabilization also helps to realize steady, shake-free recording by minimizing the appearance of camera shake.",
+      "brand": "Canon",
+      "category": "Electronics",
+      "price": 55500,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 18
+    },
+    {
+      "id": 13,
+      "name": "canon-eos-6d",
+      "image": "/images/canon-eos-6d.png",
+      "description": " The EOS 6D is built around a new Canon CMOS sensor, which offers a pixel count of 20.2MP (compared to the Nikon D600 and Sony SLT-A99's 24MP, and the 5D Mark III's 22MP). In concert with the DIGIC 5+ processor it offers a standard ISO range of 100-25600, expandable down to 50 and up to 102,400. The AF system has 11 points, but only the central one is cross-type (sensitive to both vertical and horizontal detail). However, the 6D's trump card is the ability to focus in extremely low light levels; right down to a claimed -3 EV – a full stop dimmer than the 5D Mark III. This figure might not mean much to you, but for reference,-3 EV is roughly equivalent to the light cast by a full moon",
+      "brand": "Canon",
+      "category": "Electronics",
+      "price": 122500,
+      "countInStock": 57,
+      "rating": 3.9,
+      "numReviews": 58
+    },
+    {
+      "id": 14,
+      "name": "sony-dslr-a200",
+      "image": "/images/sony-dslr-a200.png",
+      "description": " 10 megapixel CCD captures enough detail for photo-quality 18 * 24-inch print include 18-70mm lens Super Steadyshot image stabilization; Bionz image processor 2.7-inch ClearPhoto LCD;Eye-Start autofocus system Powered by lithium-ion battery (supplied); stores images on CF I/II and Memory Stick Pro Duo cards",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 111500,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 28
+    },
+    {
+      "id": 15,
+      "name": "Nikon Coolpix",
+      "image": "/images/Nikon Coolpix.png",
+      "description": "Connect the optional WU-1a Wireless Mobile Adapter and wirelessly transfer photos to your compatible smartphone, tablet or any Wi-Fi enabled device±. Use your compatible smartphone or tablet to instantly upload your shots to the web or email them to a friend. Or, remotely control the COOLPIX A—see what the camera sees from your smartphone or tablet and fire off shots!",
+      "brand": "Nikon",
+      "category": "Electronics",
+      "price": 7500,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 8
+    },
+    {
+      "id": 16,
+      "name": "Nikon D850",
+      "image": "/images/Nikon D850.png",
+      "description": "Nikon proudly introduces the next evolution in high resolution DSLRs, a camera that allows photographers to capture fast action in 45.7 megapixels of brilliant resolution. With remarkable advancements across the board—sensor design, autofocus, dynamic range, sensitivity, Speedlight control, battery life, shutter and mirror drive mechanisms, Silent Photography in Live-View mode, focus shift capability and more—this is quite possibly the most impressive, well-rounded DSLR yet",
+      "brand": "Nikon",
+      "category": "Electronics",
+      "price": 77500,
+      "countInStock": 7,
+      "rating": 4.6,
+      "numReviews": 8
+    },
+    {
+      "id": 17,
+      "name": "APPLE iPad (9th gen) (Space Grey)",
+      "image": "/images/APPLE iPad (9th gen) (Space Grey).png",
+      "description": "10.2 inches (25.91 cm) Retina Display,64 GB ROM,Apple A13 Bionic chip, 6 Core",
+      "brand": "Adidas",
+      "category": "",
+      "price": 31500,
+      "countInStock": 67,
+      "rating": 4.7,
+      "numReviews": 28
+    },
+    {
+      "id": 18,
+      "name": "APPLE iPhone 13 (Midnight, 128 GB)",
+      "image": "/images/APPLE iPhone 13 (Midnight, 128 GB).png",
+      "description": "48MP Main Ultra Wide Telephoto Photonic Engine for incredible detail and colour Autofocus on TrueDepth front camera",
+      "brand": "  ",
+      "category": "",
+      "price": 55500,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 8
+    },
+    {
+      "id": 19,
+      "name": "APPLE iPhone 14 (Blue, 128 GB)",
+      "image": "/images/APPLE iPhone 14 (Blue, 128 GB).png",
+      "description": "12MP+12MP Main Ultra Wide Telephoto Photonic Engine for incredible detail and colour Autofocus on TrueDepth front camera",
+      "brand": "",
+      "category": "",
+      "price": 62500,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 8
+    },
+    {
+      "id": 20,
+      "name": " APPLE iPhone SE (Black, 256 GB)",
+      "image": "/images/APPLE iPhone SE (Black, 256 GB).png",
+      "description": "48MP Main Ultra Wide Telephoto Photonic Engine for incredible detail and colour Autofocus on TrueDepth front camera",
+      "brand": "",
+      "category": "",
+      "price": 46900,
+      "countInStock": 27,
+      "rating": 4.1,
+      "numReviews": 18
+    },
+    {
+      "id": 21,
+      "name": " ASUS ROG 5s(Phantom Black,12 GB RAM)",
+      "image": "/images/ASUS ROG 5s (Phantom Black, 256 GB)  (12 GB RAM).png",
+      "description": "12 GB RAM | 256 GB ROM 17.22 cm (6.78 inch) Full HD+ Display",
+      "brand": "",
+      "category": "",
+      "price": 22400,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 8
+    },
+    {
+      "id": 22,
+      "name": "boAt Rockerz 450 Pro Bluetooth Headset",
+      "image": "/images/boAt Rockerz 450 Pro with Upto 70 Hours Playback Bluetooth Headset  (Luscious Black, On the Ear).png",
+      "description": "boAt Rockerz 450 Pro is a power-packed on-ear wireless headphone that has been ergonomically designed to meet the needs of music lovers.",
+      "brand": "",
+      "category": "",
+      "price": 1000,
+      "countInStock": 37,
+      "rating": 4.1,
+      "numReviews": 28
+    },
+    {
+      "id": 23,
+      "name": " boAt Rockerz 510 Bluetooth Headset",
+      "image": "/images/boAt Rockerz 510 Super Extra Bass Bluetooth Headset  (Raging Red, On the Ear).png",
+      "description": "Now just stop worrying about Wires hanging from here and there. Pair with any Bluetooth device, connect and play. Dead Batteries can kill your vibe",
+      "brand": "",
+      "category": "Shoes",
+      "price": 3500,
+      "countInStock": 17,
+      "rating": 4,
+      "numReviews": 18
+    },
+    {
+      "id": 24,
+      "name": "  boAt USB Type C Cable (black)",
+      "image": "/images/boAt USB Type C Cable 3 A 1.5 m Deuce USB 330 2-in-1 Micro and with 3A Fast Charge,480mbps  (Compatible with Mobile, Tablet, Speaker, Power Bank, Martian Red).png",
+      "description": " boAt Type C C400 is a USB C to C cable compatible with most smartphones, tablets, PC peripherals, Bluetooth speakers, power banks, game consoles, cameras, hard drives. ",
+      "brand": "",
+      "category": "",
+      "price": 900,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 25,
+      "name": " Canon EOS M50 Mark II 20 MP DSLR",
+      "image": "/images/Canon EOS M50 Mark II.png",
+      "description": " Lightweight and stylish, the EOS M50 Mark II is fun and easy to use with Wi-Fi connectivity for content creators to stay close to your audience at all times. ",
+      "brand": "",
+      "category": "",
+      "price": 82500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 26,
+      "name": " canon-eos-3000d 18MP DSLR",
+      "image": "/images/canon-eos-3000d.png",
+      "description": " The 18megapixel APS-C-size CMOS sensor is about 25 times larger than the sensor used in smartphone cameras.  ",
+      "brand": "",
+      "category": "",
+      "price": 72500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 27,
+      "name": " D-Link Wi-Fi Gb 1200 Mbps Wireless Router",
+      "image": "/images/D-Link DIR-825 AC1200 Wi-Fi Gigabit 1200 Mbps Wireless Router  (Black, Dual Band).png",
+      "description": "  Get seamless Wi-Fi performance at home or in office by investing in this D-Link DIR-825 AC Wi-Fi router. ",
+      "brand": "",
+      "category": "",
+      "price": 62500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 28,
+      "name": " DELL KM3322W Keyboard & Mouse Combo (Black) ",
+      "image": "/images/DELL KM3322W Keyboard & Mouse Combo (Black).png",
+      "description": " It connects easily to your Dell PC and has long-lasting batteries and anti-fade, spill-resistant keys that help enhance your workday experience. ",
+      "brand": "",
+      "category": "",
+      "price": 2500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 29,
+      "name": "Fastrack Reflex Vox (Black Strap, Free Size)  ",
+      "image": "/images/Fastrack Reflex Vox (Black Strap, Free Size).png",
+      "description": " 1.69 inches (4.3 cm) Super Bright Metal Frame HD Display with premium touch and controls ",
+      "brand": "",
+      "category": "",
+      "price": 2500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 30,
+      "name": " Google Pixel 4a (Just Black, 128 GB)  (6 GB RAM) ",
+      "image": "/images/Google Pixel 4a (Just Black, 128 GB)  (6 GB RAM).png",
+      "description": " 5G capable cell phone gives you an extra boost of speed so you can download a movie in seconds, enjoy smooth streaming in ultra clear HD, play games at home. ",
+      "brand": "",
+      "category": "",
+      "price": 22500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 31,
+      "name": " HP DeskJet 1212 Single Function Color Printer",
+      "image": "/images/HP DeskJet 1212 Single Function Color Printer  (White, Ink Cartridge).png",
+      "description": " Cost-per-page: Rs6 (Black), Rs8 (Color), as per ISO standards;SAVE YOUR PRODUCTIVE TIME: High speed printing for Home needs; Black: Up to 7.5 ppm (ISO) ;Color: Up to 5.5 ppm (ISO) ",
+      "brand": "",
+      "category": "",
+      "price": 12500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 32,
+      "name": " HP DeskJet Color Printer(Ink Cartridge) ",
+      "image": "/images/HP DeskJet 2331 Multi-function Color Printer  (White, Purple, Ink Cartridge).png",
+      "description": " A4 color printer; Perfect for Home",
+      "brand": "",
+      "category": "",
+      "price": 21500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 33,
+      "name": "HP Monochrome Laser Printer(White, Grey, Toner Cartridge)  ",
+      "image": "/images/HP Monochrome Laser Printer(White, Grey, Toner Cartridge).png",
+      "description": " A4 Black and White Laser Printer; Perfect for Business ",
+      "brand": "",
+      "category": "",
+      "price": 32500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 34,
+      "name": " HP x1000 Wired Optical Mouse (USB 2.0, Black) ",
+      "image": "/images/HP x1000 Wired Optical Mouse  (USB 2.0, Black).png",
+      "description": " Easy and quick to install and use for enhanced usability ",
+      "brand": "",
+      "category": "",
+      "price": 200,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 35,
+      "name": " Lenovo IdeaPad 3 Core i5 12th Gen ",
+      "image": "/images/Lenovo IdeaPad 3 Core i5 12th Gen Gaming Laptop.png",
+      "description": " 39.62cms (15.6) laptop powered by 12th Gen Intel® Core™ processors ",
+      "brand": "",
+      "category": "",
+      "price": 62500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 36,
+      "name": " Lenovo Legion 7i Core i7 10th Gen ",
+      "image": "/images/Lenovo Legion 7i Core i7 10th Gen Gaming Laptop.png",
+      "description": " Premium mobile performance with up to Intel® Evo™, featuring 12th Gen Intel® Core™ processors ",
+      "brand": "",
+      "category": "",
+      "price": 72500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 37,
+      "name": " Logitech Mouse & Keyboard Combo Wireless(Black) ",
+      "image": "/images/Logitech MK220 Mouse & Keyboard Combo Wireless Laptop Keyboard  (Black).png",
+      "description": " Keyboard & Mouse Combo, Ideal For: Desktop | Laptop ",
+      "brand": "",
+      "category": "",
+      "price": 2500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 38,
+      "name": " Macbook Air M1 (13.3 Inch, 8GB, 256GB,Space Grey)",
+      "image": "/images/Macbook Air M1.png",
+      "description": " Memory: 8GB DDR4 RAM, 256GB SSD ROM Processor: Apple M1 ",
+      "brand": "",
+      "category": "",
+      "price": 92500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 39,
+      "name": " Mi 4A Wireless MU-MIMO Gb 1200 Mbps Router  (White, Dual Band) ",
+      "image": "/images/Mi 4A Wireless MU-MIMO Gigabit 1200 Mbps Router  (White, Dual Band).png",
+      "description": " Speed - Dual Band Gigabit Wifi Router : Upto 1167MBps speed; 2.4 GHz with up to 300Mbps Speed and 5 Ghz with upto 867Mbps speed, Ideal for HD video Streaming and Gaming. ",
+      "brand": "",
+      "category": "",
+      "price": 1500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 40,
+      "name": " Mi 18W Quick Charger for Mi, Redmi, Xiaomi devices (Black)",
+      "image": "/images/Mi 18W Quick Charger for Mi,Redmi,Xiomi devices  (Black).png",
+      "description": " Wall Charging Adapter Ideal For: Mobiles ",
+      "brand": "",
+      "category": "",
+      "price": 250,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 41,
+      "name": " Mi Smart Band 5  (Black Strap, Size - Regular) ",
+      "image": "/images/Mi Smart Band 5  (Black Strap, Size - Regular).png",
+      "description": " Display: 1.1 inch full touch AMOLED Display with 450 nits of brightness ",
+      "brand": "",
+      "category": "",
+      "price": 3500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 42,
+      "name": " MOTOROLA g31 (Baby Blue, 128 GB)  (6 GB RAM) ",
+      "image": "/images/MOTOROLA g31 (Baby Blue, 128 GB)  (6 GB RAM).png",
+      "description": " 13 MP Front and 50 MP+8 MP+ 2MP Rear Camera, 6 GB RAM/128 GB ROM ",
+      "brand": "",
+      "category": "",
+      "price": 22500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 43,
+      "name": " NIKON Z5 Mirrorless Camera(Black) ",
+      "image": "/images/NIKON Z5 Mirrorless Camera 24-200 mm  (Black).png",
+      "description": " 24.3 MP Camera 1080p HD Video 100-51200 ISO ",
+      "brand": "",
+      "category": "",
+      "price": 52500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 44,
+      "name": " Noise Icon Buzz BT Calling(Black)",
+      "image": "/images/Noise Icon Buzz BT Calling(Black Strap, Regular).png",
+      "description": " A watch that keeps you truly connected. Now make, receive and reject calls from your wrist and leave your phone in the pocket. ",
+      "brand": "",
+      "category": "",
+      "price": 2500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 45,
+      "name": " OnePlus Nord Buds Bluetooth Headset",
+      "image": "/images/OnePlus Nord Buds Bluetooth Headset  (Blue Agate, True Wireless).png",
+      "description": " 12.4 mm Titanium Drivers 30 Hours Total (With Case) ",
+      "brand": "",
+      "category": "",
+      "price": 1500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 46,
+      "name": " OnePlus USB Type C warp charge Cable ",
+      "image": "/images/OnePlus USB Type C Cable.png",
+      "description": " Supports 6 Amp Fast Charge Enjoy speedy data transfer with the USB cable. Compatible with all smart phones. This high performance cable is compatible with your Smartphone ",
+      "brand": "",
+      "category": "",
+      "price": 1000,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 47,
+      "name": " OPPO A16E (Midnight Black, 32 GB)(3 GB RAM) ",
+      "image": "/images/OPPO A16E (Midnight Black, 32 GB)  (3 GB RAM).png",
+      "description": " All-Day Eye Care [Sunlight display, Moonlight display, AI Smart Backlight] ",
+      "brand": "",
+      "category": "",
+      "price": 12500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 48,
+      "name": " Oppo Pad Air 4 GB RAM 64 GB(Grey) ",
+      "image": "/images/Oppo Pad Air 4 GB RAM 64 GB ROM 10.36 inch with Wi-Fi Only Tablet (Grey).png",
+      "description": " 3 GB RAM | 32 GB ROM | Expandable Upto 1 TB ",
+      "brand": "",
+      "category": "",
+      "price": 32500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 49,
+      "name": " Panther WiFi camera Black Drone ",
+      "image": "/images/Panther WiFi camera Black Drone.png",
+      "description": " Type: Professional Drone Control Range: 20 ft Battery Type: Lithium Battery ",
+      "brand": "",
+      "category": "",
+      "price": 12500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 50,
+      "name": " ZOTAC RTX 2060 12GB GDDR6 Graphics Card ",
+      "image": "/images/ZOTAC NVIDIA RTX 2060 Twin Fan 12 GB GDDR6 Graphics Card.png",
+      "description": "The powerful new ZOTAC GAMING GeForce RTX™ 2060 Twin Fan 12GB takes advantage of the cutting-edge NVIDIA Turing™ architecture",
+      "brand": "",
+      "category": "",
+      "price": 20500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 51,
+      "name": "Xiaomi 11i 5G (Purple Mist, 128 GB)  (6 GB RAM)",
+      "image": "/images/Xiaomi 11i 5G (Purple Mist, 128 GB)  (6 GB RAM).png",
+      "description": " 6 GB RAM | 128 GB ROM | Expandable Upto 1 TB ",
+      "brand": "",
+      "category": "",
+      "price": 27500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 52,
+      "name": " Skullcandy Crusher Bluetooth Headset  (Gray) ",
+      "image": "/images/Skullcandy Crusher Bluetooth Headset  (Gray).png",
+      "description": " 40mm Drivers Built-In Rechargeable Battery Up to 40 Hours of Playback ",
+      "brand": "",
+      "category": "",
+      "price": 3500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 53,
+      "name": " SONY Alpha Full Frame ILCE-7M2K ",
+      "image": "/images/SONY Alpha Full Frame ILCE-7M2K.png",
+      "description": " Breathtaking image quality meets unrivalled shooting freedom in the α7 II, the world’s first1 full-frame camera with 5-axis image stabilisation. ",
+      "brand": "",
+      "category": "",
+      "price": 25000,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 54,
+      "name": " SAMSUNG Watch 4 (Black Strap, Free Size) ",
+      "image": "/images/SAMSUNG Watch 4 (Black Strap, Free Size).png",
+      "description": " Measure body composition with the Powerful Samsung BioActive Sensor Track your workouts on your wrist ",
+      "brand": "",
+      "category": "",
+      "price": 3500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 55,
+      "name": " SAMSUNG Galaxy S21 FE 5G (Lavender, 8 GB RAM) ",
+      "image": "/images/SAMSUNG Galaxy S21 FE 5G (Lavender, 128 GB)  (8 GB RAM).png",
+      "description": " 8 GB RAM | 128 GB ROM 16.26 cm (6.4 inch) Full HD+ Display ",
+      "brand": "",
+      "category": "",
+      "price": 32500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 56,
+      "name": " realme C30s (Stripe Blue, 32 GB)  (2 GB RAM) ",
+      "image": "/images/realme C30s (Stripe Blue, 32 GB)  (2 GB RAM).png",
+      "description": " 2 GB RAM | 32 GB ROM | Expandable Upto 1 TB ",
+      "brand": "",
+      "category": "",
+      "price": 9500,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 57,
+      "name": "Portronics Multiport Mobile Adaptor",
+      "image": "/images/Portronics 3.4 A Multiport Mobile Adapto III Charger  (White).png",
+      "description": "Multiport adapter for USB-C devices",
+      "brand": "",
+      "category": "",
+      "price": 500,
+      "countInStock": 71,
+      "rating": 4,
+      "numReviews": 38
+    }
+  ],
+  "users": [
+    {
+      "name": "Nachiketa",
+      "email": "hi@gmail.com",
+      "password": "12345678",
+      "Token": "Admin1001",
+      "id": 1
+    },
+    {
+      "name": "Maneesh",
+      "email": "maneesh@gmail.com",
+      "password": "12345678",
+      "Token": "",
+      "id": 2
+    },
+    {
+      "name": "seethaRam",
+      "email": "suresh@gmail.com",
+      "password": "12345678",
+      "Token": "",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "orders": {
+        "orderItems": [
+          {
+            "id": 57,
+            "name": "Portronics Multiport Mobile Adaptor",
+            "image": "/images/Portronics 3.4 A Multiport Mobile Adapto III Charger  (White).png",
+            "description": "Multiport adapter for USB-C devices",
+            "brand": "",
+            "category": "",
+            "price": 500,
+            "countInStock": 71,
+            "rating": 4,
+            "numReviews": 38,
+            "qty": "2"
+          },
+          {
+            "id": 1,
+            "name": "Airpods Wireless Bluetooth Headphones",
+            "image": "/images/airpods.png",
+            "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working'",
+            "brand": "Apple",
+            "category": "Electronics",
+            "price": 13400,
+            "countInStock": 10,
+            "rating": 4.5,
+            "numReviews": 12,
+            "qty": 1
+          }
+        ],
+        "shippingAddress": {
+          "address": "Old City",
+          "city": "Hyderabad",
+          "postalCode": "500045",
+          "country": ""
+        },
+        "paymentMethod": "Cash on Delivery",
+        "totalPrice": 15220
+      },
+      "user_id": 2,
+      "isPaid": true,
+      "isDelivered": false,
+      "id": 1
+    },
+    {
+      "orders": {
+        "orderItems": [
+          {
+            "id": 2,
+            "name": "iPhone (White , memory 8GB)",
+            "image": "/images/iPhone 4.png",
+            "description": "12MP primary camera with 720p HD video recording, retina flash, ?/2.4 aperture, auto HDR for photos, backside illumination sensor, exposure control, improved local tone mapping, face detection, timer mode, burst mode and 1.2MP front facing camera",
+            "brand": "Apple",
+            "category": "'Electronics'",
+            "price": 16000,
+            "countInStock": 7,
+            "rating": 4,
+            "numReviews": 8,
+            "qty": 1
+          }
+        ],
+        "shippingAddress": {
+          "address": "Uppal",
+          "city": "Hyderabad",
+          "postalCode": "500012",
+          "country": ""
+        },
+        "paymentMethod": "UPI Payment",
+        "totalPrice": 16900
+      },
+      "user_id": 1,
+      "isPaid": true,
+      "isDelivered": true,
+      "id": 2
+    },
+    {
+      "orders": {
+        "orderItems": [
+          {
+            "id": 2,
+            "name": "iPhone (White , memory 8GB)",
+            "image": "/images/iPhone 4.png",
+            "description": "12MP primary camera with 720p HD video recording, retina flash, ?/2.4 aperture, auto HDR for photos, backside illumination sensor, exposure control, improved local tone mapping, face detection, timer mode, burst mode and 1.2MP front facing camera",
+            "brand": "Apple",
+            "category": "'Electronics'",
+            "price": 16000,
+            "countInStock": 7,
+            "rating": 4.7,
+            "numReviews": 8,
+            "qty": 1
+          }
+        ],
+        "shippingAddress": {
+          "address": "old city",
+          "city": "Hyderabad",
+          "postalCode": "500013",
+          "country": ""
+        },
+        "paymentMethod": "Cash on Delivery",
+        "totalPrice": 16900
+      },
+      "user_id": 2,
+      "isPaid": true,
+      "isDelivered": false,
+      "id": 3
+    },
+    {
+      "orders": {
+        "orderItems": [
+          {
+            "id": 40,
+            "name": " Mi 18W Quick Charger for Mi, Redmi, Xiaomi devices (Black)",
+            "image": "/images/Mi 18W Quick Charger for Mi,Redmi,Xiomi devices  (Black).png",
+            "description": " Wall Charging Adapter Ideal For: Mobiles ",
+            "brand": "",
+            "category": "",
+            "price": 250,
+            "countInStock": 37,
+            "rating": 4.2,
+            "numReviews": 28,
+            "qty": "2"
+          }
+        ],
+        "shippingAddress": {
+          "address": "ramanthapur",
+          "city": "hyderabad",
+          "postalCode": "500013",
+          "country": ""
+        },
+        "paymentMethod": "Debit Card or Credit Card",
+        "totalPrice": 625
+      },
+      "user_id": 1,
+      "isPaid": true,
+      "isDelivered": true,
+      "id": 4
+    },
+    {
+      "orders": {
+        "orderItems": [
+          {
+            "id": 2,
+            "name": "iPhone (White , memory 8GB)",
+            "image": "/images/iPhone 4.png",
+            "description": "12MP primary camera with 720p HD video recording, retina flash, ?/2.4 aperture, auto HDR for photos, backside illumination sensor, exposure control, improved local tone mapping, face detection, timer mode, burst mode and 1.2MP front facing camera",
+            "brand": "Apple",
+            "category": "'Electronics'",
+            "price": 16000,
+            "countInStock": 7,
+            "rating": 4.7,
+            "numReviews": 8,
+            "qty": 1
+          }
+        ],
+        "shippingAddress": {
+          "address": "old city hyderabad",
+          "city": "hyderabad",
+          "postalCode": "500013",
+          "country": ""
+        },
+        "paymentMethod": "Debit Card or Credit Card",
+        "totalPrice": 16900
+      },
+      "user_id": 2,
+      "isPaid": true,
+      "isDelivered": false,
+      "id": 5
+    },
+    {
+      "orders": {
+        "orderItems": [
+          {
+            "id": 5,
+            "name": "Logitech G-Series Gaming Mouse",
+            "image": "/images/Logitech G-Series Gaming Mouse.png",
+            "description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+            "brand": "Logitech",
+            "category": "'Electronics'",
+            "price": 1500,
+            "countInStock": 7,
+            "rating": 4.7,
+            "numReviews": 10,
+            "qty": 1
+          }
+        ],
+        "shippingAddress": {
+          "address": "old city ",
+          "city": "Hyderabad",
+          "postalCode": "500013",
+          "country": ""
+        },
+        "paymentMethod": "Debit Card or Credit Card",
+        "totalPrice": 1675
+      },
+      "user_id": 2,
+      "isPaid": true,
+      "isDelivered": true,
+      "id": 6
+    },
+    {
+      "orders": {
+        "orderItems": [
+          {
+            "_id": "641fce63d80c0023b469ccd6",
+            "id": 1,
+            "name": "Airpods Wireless Bluetooth Headphones",
+            "image": "/images/airpods.png",
+            "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working'",
+            "brand": "Apple",
+            "category": "Electronics",
+            "price": 13400,
+            "countInStock": 10,
+            "rating": 4.6,
+            "numReviews": 12,
+            "qty": "1"
+          }
+        ],
+        "shippingAddress": {
+          "address": "Guntur",
+          "city": "GunturTown",
+          "postalCode": "6879",
+          "country": ""
+        },
+        "paymentMethod": "Online Banking",
+        "totalPrice": 14170
+      },
+      "isPaid": true,
+      "isDelivered": true,
+      "id": 7
+    }
+  ]
+}

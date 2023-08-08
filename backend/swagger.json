@@ -1,0 +1,546 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "Basic Ecommerce Website",
+    "version": "1.0.0",
+    "title": "Shop It",
+    "termsOfService": "http://swagger.io/terms/",
+    "contact": {
+      "email": "usshopit@gmail.com"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  },
+  "host": "localhost:9999",
+  "tags": [
+    {
+      "name": "users",
+      "description": "Everything about your Login"
+    },
+    {
+      "name": "products",
+      "description": "Operations about record"
+    },
+    {
+      "name": "orders",
+      "description": "Operations about record"
+    }
+  ],
+  "schemes": [
+    "http",
+    "https"
+  ],
+  "paths": {
+    "/users/": {
+      "post": {
+        "tags": [
+          "users"
+        ],
+        "summary": "Create user",
+        "description": "This can only be done by the logged in user.",
+        "operationId": "createLogin",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Created user object",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Signup"
+            }
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      },
+      "get": {
+        "security": [
+          {
+            "Bearer": []
+          }
+        ],
+        "tags": [
+          "users"
+        ],
+        "summary": "Create user",
+        "description": "This can only be done by the logged in user.",
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/users/{id}": {
+      "put": {
+        "tags": [
+          "users"
+        ],
+        "summary": "Create user",
+        "description": "This can only be done by the logged in user.",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "description": "Created user object",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Created user object",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Signup"
+            }
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/login/": {
+      "post": {
+        "tags": [
+          "users"
+        ],
+        "summary": "Create user",
+        "description": "This can only be done by the logged in user.",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Created user object",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/login"
+            }
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/products/": {
+      "post": {
+        "tags": [
+          "products"
+        ],
+        "summary": "Create user",
+        "description": "This can only be done by the logged in user.",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Created user object",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/products"
+            }
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "products"
+        ],
+        "summary": "Create user",
+        "description": "This can only be done by the logged in user.",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Created user object",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/getproducts"
+            }
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/products/{id}": {
+      "delete": {
+        "tags": [
+          "products"
+        ],
+        "summary": "Create user",
+        "description": "This can only be done by the logged in user.",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "description": "Created user object",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/orders/": {
+      "post": {
+        "tags": [
+          "orders"
+        ],
+        "summary": "Create user",
+        "description": "This can only be done by the logged in user.",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Created user object",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Orderschema"
+            }
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      },
+      "get": {
+        "security": [
+          {
+            "Bearer": []
+          }
+        ],
+        "tags": [
+          "orders"
+        ],
+        "summary": "Create user",
+        "description": "This can only be done by the logged in user.",
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/orders/{id}": {
+      "put": {
+        "security": [
+          {
+            "Bearer": []
+          }
+        ],
+        "tags": [
+          "orders"
+        ],
+        "summary": "Create user",
+        "description": "This can only be done by the logged in user.",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "description": "Created user object",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    }
+  },
+  "securityDefinitions": {
+    "Bearer": {
+      "type": "apiKey",
+      "name": "Authorization",
+      "in": "header"
+    }
+  },
+  "definitions": {
+    "Signup": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "email": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        },
+        "confirm password": {
+          "type": "string"
+        },
+        "Admin Token": {
+          "type": "string"
+        }
+      },
+      "xml": {
+        "name": "User"
+      }
+    },
+    "login": {
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        }
+      },
+      "xml": {
+        "name": "User"
+      }
+    },
+    "products": {
+      "type": "object",
+      "properties": {
+        "Name": {
+          "type": "string"
+        },
+        "Price": {
+          "type": "integer"
+        },
+        "Brand": {
+          "type": "string"
+        },
+        "Count In Stock": {
+          "type": "integer"
+        },
+        "Description": {
+          "type": "string"
+        },
+        "Image URL": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        }
+      },
+      "xml": {
+        "name": "User"
+      }
+    },
+    "getproducts": {
+      "type": "object",
+      "properties": {
+        "ID": {
+          "type": "integer"
+        },
+        "Name": {
+          "type": "string"
+        },
+        "Price": {
+          "type": "integer"
+        },
+        "Brand": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        }
+      },
+      "xml": {
+        "name": "User"
+      }
+    },
+    "Orderschema": {
+      "type": "object",
+      "properties": {
+        "Orders": {
+          "type": "object",
+          "properties": {
+            "orderItems": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "number",
+                    "format": "int64",
+                    "description": "Unique identifier for the order item."
+                  },
+                  "name": {
+                    "type": "string",
+                    "description": "Name of the product."
+                  },
+                  "image": {
+                    "type": "string",
+                    "description": "URL of the product image."
+                  },
+                  "description": {
+                    "type": "string",
+                    "description": "Description of the product."
+                  },
+                  "brand": {
+                    "type": "string",
+                    "description": "Brand of the product."
+                  },
+                  "category": {
+                    "type": "string",
+                    "description": "Category of the product."
+                  },
+                  "price": {
+                    "type": "number",
+                    "format": "float",
+                    "description": "Price of the product."
+                  },
+                  "countInStock": {
+                    "type": "number",
+                    "format": "int32",
+                    "description": "Number of units of the product available in stock."
+                  },
+                  "rating": {
+                    "type": "number",
+                    "format": "float",
+                    "description": "Average rating of the product."
+                  },
+                  "numReviews": {
+                    "type": "number",
+                    "format": "int32",
+                    "description": "Number of reviews for the product."
+                  },
+                  "qty": {
+                    "type": "number",
+                    "format": "int32",
+                    "description": "Quantity of the product ordered."
+                  }
+                },
+                "required": [
+                  "id",
+                  "name",
+                  "image",
+                  "description",
+                  "price",
+                  "countInStock",
+                  "numReviews",
+                  "qty"
+                ]
+              },
+              "description": "Array of order items in the order."
+            },
+            "shippingAddress": {
+              "type": "object",
+              "properties": {
+                "address": {
+                  "type": "string",
+                  "description": "Address for shipping the order."
+                },
+                "city": {
+                  "type": "string",
+                  "description": "City for shipping the order."
+                },
+                "postalCode": {
+                  "type": "string",
+                  "description": "Postal code for shipping the order."
+                },
+                "country": {
+                  "type": "string",
+                  "description": "Country for shipping the order."
+                }
+              },
+              "required": [
+                "address",
+                "city",
+                "postalCode",
+                "country"
+              ]
+            },
+            "paymentMethod": {
+              "type": "string",
+              "description": "Payment method used for the order."
+            },
+            "totalPrice": {
+              "type": "number",
+              "format": "float",
+              "description": "Total price of the order."
+            }
+          },
+          "required": [
+            "shippingAddress",
+            "paymentMethod",
+            "totalPrice"
+          ]
+        },
+        "user_id": {
+          "type": "string",
+          "description": "User ID associated with the order."
+        },
+        "isPaid": {
+          "type": "boolean",
+          "description": "Flag indicating if the order is paid or not."
+        },
+        "isDelivered": {
+          "type": "boolean",
+          "description": "Flag indicating if the order is delivered or not."
+        }
+      },
+      "required": [
+        "isPaid",
+        "isDelivered"
+      ]
+    }
+  },
+  "externalDocs": {
+    "description": "Find out more about Swagger",
+    "url": "http://swagger.io"
+  }
+}

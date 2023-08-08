@@ -1,0 +1,17 @@
+.message{
+    /* visibility: hidden; */
+    display: none;
+    padding: 10px;
+}
+.message-success{
+    visibility: visible;
+    padding: 5px;
+}
+div.error {
+    padding: 10px;
+    background: #ffefef;
+    border: 1px solid var(--error);
+    color: var(--error);
+    border-radius: 4px;
+    margin: 20px 0;
+  }
